@@ -1,0 +1,336 @@
+{
+    "Category": {
+        "PC_Fixe": {
+            "id": 1,
+            "name": "PC Fixe",
+            "subcategory": {
+                "PC_Gaming": {
+                    "id": 11,
+                    "name": "PC Gaming",
+                    "products": {
+                        "PC_Gaming_OMEN": {
+                            "id": 30,
+                            "name": "PC Gaming OMEN",
+                            "attributes": {}
+                        }
+                    }
+                }
+            }
+        },
+        "PC_Portable": {
+            "id": 2,
+            "name": "PC Portable",
+            "subcategory": {
+                "Ordinateur_Asus": {
+                    "id": 12,
+                    "name": "Ordinateur Asus",
+                    "products": {
+                        "Ordinateur_Asus_de_travail": {
+                            "id": 31,
+                            "name": "Ordinateur Asus de travail",
+                            "attributes": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Smartphone" : {
+            "id" : 3,
+            "name": "Smartphone",
+            "subcategory": {
+                "Iphone": {
+                    "id": 13,
+                    "name": "Iphone",
+                    "products": {
+                        "Iphone_X": {
+                            "id": 32,
+                            "name": "Iphone X",
+                            "attributes": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Appareils_Connectés": {   
+            "id": 4,
+            "name": "Appareils Connectés",
+            "subcategory": {
+                "Enceinte_Connectée": {
+                    "id": 14,
+                    "name": "Enceinte Connectée",
+                    "products": {
+                        "Enceinte_connecte_JBL": {
+                            "id": 33,
+                            "name": "Enceinte connecte JBL",
+                            "attributes": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Claviers": {
+            "id": 5,
+            "name": "Claviers",
+            "subcategory": {
+                "Clavier_Mecanique": {
+                    "id": 15,
+                    "name": "Clavier Mecanique",
+                    "products": {
+                        "Clavier_Mecanique_Razer": {
+                            "id": 34,
+                            "name": "Clavier Mecanique Razer",
+                            "attributes": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Composants_PC": {
+            "id": 6,
+            "name" : "Composants PC",
+            "subcategory": {
+                "Boitiers": {
+                    "id": 16,
+                    "name": "Boitiers",
+                    "products": {
+                        "Boitier_Cooler_Master": {
+                            "id": 35,
+                            "name": "Boitier Cooler Master",
+                            "attributes": {}
+                        }
+                    }
+                },
+                "Alimentation_PC": {
+                    "id": 17,
+                    "name": "Alimentation PC",
+                    "products": {
+                        "Alimentation_Cooler_Master": {
+                            "id": 36,
+                            "name": "Alimentation Cooler Master",
+                            "attributes": {}
+                        }
+                    }
+                },
+                "HDD_SSD": {
+                    "id": 18,
+                    "name": "HDD/SSD",
+                    "products": {
+                        "SSD_Samsung_1TO": {
+                            "id": 37,
+                            "name": "SSD Samsung 1TO",
+                            "attributes": {}
+                        }
+                    }
+                },
+                "Carte_Mere": {
+                    "id": 19,
+                    "name": "Carte Mere",
+                    "products": {
+                        "Carte_Mere_MSI": {
+                            "id": 38,
+                            "name": "Carte Mere MSI",
+                            "attributes": {}
+                        }
+                    }
+                },
+                "Carte_Graphique": {
+                    "id": 20,
+                    "name": "Carte Graphique",
+                    "products": {
+                        "Aorus_GeForce_GTX_1660_SUPER_6G": {
+                            "id": 39,
+                            "name": "Aorus GeForce GTX 1660 SUPER 6G",
+                            "attributes": {
+                                "name": "Aorus GeForce GTX 1660 SUPER 6G",
+                                "price": "329€95",
+                                "description": "La Aorus GeForce GTX 1660 SUPER 6G est une carte graphique gaming abordable basée sur l'architecture GPU NVIDIA Turing. Version améliorée de la GTX 1660, elle s'appuie sur la puce graphique TU116, de la VRAM GDDR6, une interface mémoire 192 bits et 1408 Cores CUDA.",
+                                "image": "none",
+                                "brand": "Aorus",
+                                "model": "GV-N166SAORUS-6GD",
+                                "graphic_chipset": "NVIDIA GeForce GTX 1660 SUPER",
+                                "overclocking": "Oui",
+                                "memory_type": "GDDR6",
+                                "virtual_link_compatbile": "Non",
+                                "flux_processor": 1048,
+                                "HD_Ready": "Oui",
+                                "resolution_4k_UHD": "Oui",
+                                "watercooling_type": "Actif",
+                                "VR_Ready": "Oui",
+                                "screens_number": 4,
+                                "consommation": "125W"
+                            }
+                        },
+                        "ASRock_Radeon_RX580_8G_OC": {
+                            "id": 40,
+                            "name": "ASRock Radeon RX580 8G OC",
+                            "attributes": {}
+                        },
+                        "ASRock_Radeon_RX_5500_XT_4G_OC": {
+                            "id": 41,
+                            "name": "ASRock Radeon RX 5500 XT 4G OC",
+                            "attributes": {}
+                        },
+                        "ASRock_Radeon_RX_5500_XT_8G_OC": {
+                            "id": 42,
+                            "name": "ASRock Radeon RX 5500 XT 8G OC",
+                            "attributes": {}
+                        },
+                        "ASRock_Radeon_RX_5500_XT_ITX_8G": {
+                            "id": 43,
+                            "name": "ASRock Radeon RX 5500 XT ITX 8G",
+                            "attributes": {}
+                        },
+                        "ASRock_Radeon_RX_5700_XT_8G_OC": {
+                            "id": 44,
+                            "name": "ASRock Radeon RX 5700 XT 8G OC",
+                            "attributes": {}
+                        },
+                        "ASRock_Radeon_RX_5700_XT_4G_OC": {
+                            "id": 45,
+                            "name": "ASRock Radeon RX 5700 XT 4G OC",
+                            "attributes": {}
+                        },
+                        "ASRock_Radeon_RX_6600_4G_OC": {
+                            "id": 46,
+                            "name": "ASRock Radeon RX 6600 4G OC",
+                            "attributes": {}
+                        },
+                        "ASRock_Radeon_RX_6600_8G_OC": {
+                            "id": 47,
+                            "name": "ASRock Radeon RX 6600 8G OC",
+                            "attributes": {}
+                        },
+                        "ASRock_Radeon_RX_6600_XT_4G_OC": {
+                            "id": 48,
+                            "name": "ASRock Radeon RX 6600 XT 4G OC",
+                            "attributes": {}
+                        }
+                    }
+                },
+                "Memoire": {
+                    "id": 21,
+                    "name": "Memoire",
+                    "products": {
+                        "Textorm_16_Go_2x8Go_DDR4_2666_MHz_CL19": {
+                            "id": 49,
+                            "name": "Textorm 16 Go (2x 8 Go) DDR4 2666 MHz CL19",
+                            "attributes": {}
+                        }
+                    }
+                },
+                "Processeur": {
+                    "id": 22,
+                    "name": "Processeur",
+                    "products": {
+                        "AMD_Ryzen_7_2700": {
+                            "id": 50,
+                            "name": "AMD Ryzen 7 2700",
+                            "attributes": {}
+                        }
+                    }
+                },
+                "Carte_Son": {
+                    "id": 23,
+                    "name": "Carte Son",
+                    "products": {
+                        "Asus_Xonar_AE": {
+                            "id": 51,
+                            "name": "Asus Xonar AE",
+                            "attributes": {}
+                        }
+                    }
+                },
+                "Carte_Reseau": {
+                    "id": 24,
+                    "name": "Carte Reseau",
+                    "products": {
+                        "Asus_PCE-AC51": {
+                            "id": 52,
+                            "name": "Asus PCE-AC51",
+                            "attributes": {}
+                        }
+                    }
+                },
+                "WaterCooling": {
+                    "id": 25,
+                    "name": "WaterCooling",
+                    "products": {
+                        "Aerocool_Mirage_L120": {
+                            "id": 53,
+                            "name": "Aerocool Mirage L120",
+                            "attributes": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Ecrans": {
+            "id": 7,
+            "name": "Ecrans",
+            "subcategory": {
+                "Ecran_LG": {
+                    "id": 26,
+                    "name": "Ecran LG",
+                    "products": {
+                        "LG_27''_LED_-_27GL850-B": {
+                            "id": 54,
+                            "name": "LG 27'' LED - 27GL850-B",
+                            "attributes": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Souris": {
+            "id": 8,
+            "name": "Souris",
+            "subcategory": {
+                "Souris_Razer": {
+                    "id": 27,
+                    "name": "Souris Razer",
+                    "products": {
+                        "Razer_Pro_Click": {
+                            "id": 55,
+                            "name": "Razer Pro Click",
+                            "attributes": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Casques_Audios": {
+            "id": 9,
+            "name": "Casques Audios",
+            "subcategory": {
+                "Casque_Sans_Fil": {
+                    "id": 28,
+                    "name": "Casque Sans Fil",
+                    "products": {
+                        "Inkasus_Casque_Bluetooth_V4.0_–_Bleu_et_Noir": {
+                            "id": 56,
+                            "name": "Inkasus Casque Bluetooth V4.0 – Bleu et Noir",
+                            "attributes": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Connectique": {
+            "id": 10,
+            "name": "Connectique",
+            "subcategory": {
+                "HDMI": {
+                    "id": 29,
+                    "name": "HDMI",
+                    "products": {
+                        "Nedis_Cable_HDMI_coudé_a_270°_haute_vitesse_avec_Ethernet_Noir": {
+                            "id": 57,
+                            "name": "Nedis Câble HDMI coudé à 270° haute vitesse avec Ethernet Noir",
+                            "attributes": {}
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
